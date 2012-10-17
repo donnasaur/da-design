@@ -46,15 +46,15 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
         <div id="wheelOne"></div>
 
         <div class="sideWindow">
-            <div id="sideWindowOne">
+            <div id="sideWindowOne" class="tintedWindowSide">
                 <p class="ferengi">sensors</p>
             </div>
             
-            <div id="sideWindowTwo">
+            <div id="sideWindowTwo" class="tintedWindowSide">
                 <p class="ferengi">life support</p>
             </div>
            
-            <div id="sideWindowThree">
+            <div id="sideWindowThree" class="tintedWindowSide">
                 <p class="ferengi">shields</p>
             </div>       
             <div class="clearBoth"></div>

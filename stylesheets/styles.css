@@ -247,7 +247,7 @@ div.sideWindow div#sideWindowOne {
     display: block;
     position: relative;
 
-    width: 301px;
+    width: 292px;
     height: 106px;
 
     padding: 20px;
@@ -262,7 +262,7 @@ div.sideWindow div#sideWindowTwo {
     display: block;
     position: relative;
 
-    width: 301px;
+    width: 292px;
     height: 73px;
 
     padding: 20px;
@@ -278,7 +278,7 @@ div.sideWindow div#sideWindowThree {
     display: block;
     position: relative;
 
-    width: 301px;
+    width: 292px;
     height: 73px;
 
     padding: 20px;
@@ -333,36 +333,63 @@ div#sideWindowOne, div#sideWindowTwo, div#sideWindowThree {
     background: rgba(0,255,255, 0.5);
 }
 
-/* Positioning energy bars */
+.tintSide {
 
-div.barsTop {
-
-    margin-top: -106px;
-   
-}
-
-div#barOne, div#barTwo, div#barThree, div#barFour, div#barFive, div#barSix, div#barSeven {
-
-    display: block;
     position: relative;
-
-    height: 22px;
-    width: 90px;
-    
-    background: black;
-    border: 4px solid white;
-    border-radius: 8px
+    cursor: pointer;
 }
 
-div#barOne, div#barTwo, div#barThree {
+.tintSide:after {
 
-    margin-bottom: 10px;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 4px;
+    right: 0;
+    bottom: 0;
+    left: 4px;
+    border-radius: 4px;
+    -moz-transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
 }
 
-div#barFour, div#barFive, div#barSix, div#barSeven {
-    
-    margin-top: 10px;
+.tintSide:hover:after {
+
+    background: rgba(0,255,255, 0.5);
 }
+
+.tintSide.t1 {
+
+    height: 150px;
+    width: 336px;
+}
+
+.tintSide.t2 {
+
+    height: 141px;
+    width: 336px;
+}
+
+.tintSide.t2:after {
+
+    top: 28px;
+}
+
+.tintSide.t3 {
+
+    height: 191px;
+    width: 336px;
+}
+
+.tintSide.t3:after {
+
+    top: 78px;
+}
+
+/* Positioning wheels */
 
 div#wheelOne {
 
@@ -390,6 +417,8 @@ div#wheelTwo {
     background: url('../images/sprites.png') -1032px -114px no-repeat;
 }
 
+/* Contact Footer */
+
 div.contactIcons {
 
     float: right;
@@ -409,4 +438,32 @@ div.contactIcons a:hover {
     color: #ffffff;
 }
 
+/* Positioning energy bars */
 
+div#barOne, div#barTwo, div#barThree, div#barFour, div#barFive, div#barSix, div#barSeven {
+
+    display: block;
+    position: relative;
+
+    height: 22px;
+    width: 90px;
+    
+    background: black;
+    border: 4px solid white;
+    border-radius: 8px
+}
+
+div#barOne, div#barTwo, div#barThree {
+
+    margin-bottom: 10px;
+}
+
+div#barFour, div#barFive, div#barSix, div#barSeven {
+    
+    margin-top: 10px;
+}
+
+div.barsTop {
+
+    margin-top: -107px;
+}
