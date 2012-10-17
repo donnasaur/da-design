@@ -153,7 +153,7 @@ body {
 	
 	width: 100%;
     
-    background-color: #000000;
+    background-color: rgba(0,0,0, 0.85);
 
 	background:
         url('../images/connections.png') center top no-repeat fixed,
@@ -444,7 +444,7 @@ div#wheelTwo {
     height: 66px;
     width: 66px;
 
-    margin: -138px 0 0 394px;
+    margin: -152px 0 0 394px;
 
     background: url('../images/sprites.png') -1032px -114px no-repeat;
 }
@@ -498,4 +498,24 @@ div#barFour, div#barFive, div#barSix, div#barSeven {
 div.barsTop {
 
     margin-top: -107px;
+}
+
+/* CSS 3D Transforms */
+
+div.spin {
+
+    -moz-transition: all 1.5s ease-in-out;
+    -webkit-transition: all 1.5s ease-in-out;
+    -o-transition: all 1.5s ease-in-out;
+    -ms-transition: all 1.5s ease-in-out;
+    transition: all 1.5s ease-in-out;
+}
+
+div.spin:hover {
+   
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
