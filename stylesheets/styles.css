@@ -226,7 +226,7 @@ div.mainWindow {
     
     //background: url('../images/sprites.png') -383px -15px  no-repeat;
 
-    background: red;
+    background: black;
 
     border: 4px solid white;
     border-radius: 8px;
@@ -389,6 +389,38 @@ div#sideWindowOne, div#sideWindowTwo, div#sideWindowThree {
     top: 78px;
 }
 
+.tintBar {
+
+    position: relative;
+    cursor: pointer;
+
+    height: 26px;
+    width: 94px;
+
+    margin: 0 0 14px 0;
+}
+
+.tintBar:after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    top: 4px;
+    right: 0;
+    bottom: 0;
+    left: 4px;
+    border-radius: 2px;
+    -moz-transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+
+.tintBar:hover:after {
+
+    background: rgba(255,255,0, 0.85);
+}
 /* Positioning wheels */
 
 div#wheelOne {

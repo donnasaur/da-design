@@ -38,9 +38,9 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
         </div>        
 
         <div class="barsTop">
-            <div id="barOne"></div>
-            <div id="barTwo"></div>           
-            <div id="barThree"></div>
+            <div id="barOne" class="tintedBar"></div>
+            <div id="barTwo" class="tintedBar"></div>           
+            <div id="barThree" class="tintedBar"></div>
         </div>        
 
         <div id="wheelOne"></div>
@@ -61,10 +61,10 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
         </div>
 
     <div class="barsBot">
-        <div id="barFour"></div>
-        <div id="barFive"></div>
-        <div id="barSix"></div>
-        <div id="barSeven"></div>
+        <div id="barFour" class="tintedBar"></div>
+        <div id="barFive" class="tintedBar"></div>
+        <div id="barSix" class="tintedBar"></div>
+        <div id="barSeven" class="tintedBar"></div>
     </div>
 
     <div id="wheelTwo"></div>
