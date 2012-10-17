@@ -64,6 +64,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
         <div id="barFour"></div>
         <div id="barFive"></div>
         <div id="barSix"></div>
+        <div id="barSeven"></div>
     </div>
 
     <div id="wheelTwo"></div>

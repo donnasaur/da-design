@@ -248,11 +248,13 @@ div.sideWindow div#sideWindowOne {
     position: relative;
 
     width: 301px;
-    height: 119px;
+    height: 106px;
 
     padding: 20px;
 
-    background: url('../images/sprites.png') -25px -18px no-repeat;
+    background: black;
+    border: 4px solid white;
+    border-radius: 8px;
 }
 
 div.sideWindow div#sideWindowTwo {
@@ -261,12 +263,14 @@ div.sideWindow div#sideWindowTwo {
     position: relative;
 
     width: 301px;
-    height: 81px;
+    height: 73px;
 
     padding: 20px;
     margin-top: 20px;
 
-    background: url('../images/sprites.png') -25px -193px no-repeat;
+    background: black;
+    border: 4px solid white;
+    border-radius: 8px;
 }
 
 div.sideWindow div#sideWindowThree {
@@ -275,12 +279,14 @@ div.sideWindow div#sideWindowThree {
     position: relative;
 
     width: 301px;
-    height: 77px;
+    height: 73px;
 
     padding: 20px;
     margin-top: 70px;
 
-    background: url('../images/sprites.png') -25px -387px no-repeat;
+    background: black;
+    border: 4px solid white;
+    border-radius: 8px;
 }
 
 div.sideWindow div p.ferengi {
@@ -335,30 +341,27 @@ div.barsTop {
    
 }
 
-div.barsTop div#barOne, div#barTwo, div#barThree {
+div#barOne, div#barTwo, div#barThree, div#barFour, div#barFive, div#barSix, div#barSeven {
 
     display: block;
     position: relative;
 
-    height: 30px;
-    width: 93px;
+    height: 22px;
+    width: 90px;
     
-    margin-bottom: 10px;
-
-    background: url('../images/sprites.png') -1131px -21px  no-repeat;
+    background: black;
+    border: 4px solid white;
+    border-radius: 8px
 }
 
-div.barsBot div#barFour, div#barFive, div#barSix, div#barSeven {
+div#barOne, div#barTwo, div#barThree {
 
-    display: block;
-    position: relative;
+    margin-bottom: 10px;
+}
 
-    height: 30px;
-    width: 93px;
-
-    margin: 10px 0 0 0;
-
-    background: url('../images/sprites.png') -1131px -21px no-repeat;
+div#barFour, div#barFive, div#barSix, div#barSeven {
+    
+    margin-top: 10px;
 }
 
 div#wheelOne {
@@ -371,7 +374,7 @@ div#wheelOne {
 
     margin: -69px 0 15px 120px;
 
-    background: url('../images/sprites.png') -1036px -25px no-repeat;
+    background: url('../images/sprites.png') -1036px -24px no-repeat;
 }
 
 div#wheelTwo {
@@ -382,7 +385,7 @@ div#wheelTwo {
     height: 66px;
     width: 66px;
 
-    margin: -100px 0 0 394px;
+    margin: -138px 0 0 394px;
 
     background: url('../images/sprites.png') -1032px -114px no-repeat;
 }
@@ -390,7 +393,7 @@ div#wheelTwo {
 div.contactIcons {
 
     float: right;
-    margin-top: -70px;
+    margin-top: -76px;
     text-align: right;
 }
 
