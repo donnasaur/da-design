@@ -43,7 +43,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             <div id="barThree" class="tintedBar"></div>
         </div>        
 
-        <div id="wheelOne"></div>
+        <div id="wheelOne" class="spin"></div>
 
         <div class="sideWindow">
             <div id="sideWindowOne" class="tintedWindowSide">
@@ -69,7 +69,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
 
     <div id="wheelTwo"></div>
 
-    <div class="contactIcons">
+    <div class="contactInfo">
         <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail-2"><span class="hide">captain@donnaalmendrala.name</span></span></a>
         <a href="javascript:void()"><span class="icon-phone"><span class="hide">510.621.3370</span></span></a>
         <br />
