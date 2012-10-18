@@ -252,7 +252,7 @@ div.sideWindow div#sideWindowOne {
 
     padding: 20px;
 
-    background: black;
+    background: black url('../images/piratehook_2.png') -200px -190px no-repeat;
     border: 4px solid white;
     border-radius: 8px;
 }
@@ -268,7 +268,7 @@ div.sideWindow div#sideWindowTwo {
     padding: 20px;
     margin-top: 20px;
 
-    background: black;
+    background: black url('../images/oranda_1.png') -280px -220px no-repeat;;
     border: 4px solid white;
     border-radius: 8px;
 }
@@ -284,7 +284,7 @@ div.sideWindow div#sideWindowThree {
     padding: 20px;
     margin-top: 70px;
 
-    background: black;
+    background: black url('../images/chimpsinspace_1.png') -180px 0px no-repeat;
     border: 4px solid white;
     border-radius: 8px;
 }
@@ -320,6 +320,7 @@ div#sideWindowOne, div#sideWindowTwo, div#sideWindowThree {
     right: 4px;
     bottom: 0;
     left: 0;
+    background: rgba(0,0,0, 0.2);
     border-radius: 4px;
     -moz-transition: all .3s linear;
     -webkit-transition: all .3s linear;
@@ -330,7 +331,7 @@ div#sideWindowOne, div#sideWindowTwo, div#sideWindowThree {
 
 .tintMain:hover:after {
 
-    background: rgba(0,255,255, 0.5);
+    background: none;
 }
 
 .tintSide {
@@ -348,6 +349,7 @@ div#sideWindowOne, div#sideWindowTwo, div#sideWindowThree {
     right: 0;
     bottom: 0;
     left: 4px;
+    background: rgba(0,0,0, 0.2);
     border-radius: 4px;
     -moz-transition: all .3s linear;
     -webkit-transition: all .3s linear;
@@ -358,7 +360,7 @@ div#sideWindowOne, div#sideWindowTwo, div#sideWindowThree {
 
 .tintSide:hover:after {
 
-    background: rgba(0,255,255, 0.5);
+    background: none;
 }
 
 .tintSide.t1 {
