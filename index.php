@@ -26,57 +26,42 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
 
 <body class="background">
     <div class="wrapper">
-         <h1 class="designer-block">donna almendrala <span class="highlight">design</span></h1>
-         <p class="ferengi">on screen</p>    
-        
-        <div class="mainWindow tintedWindowMain">
-            <p class="ferengi">main screen online</p>
-            <p class="ferengi">systems diagnotic</p>
-            <p class="ferengi">loading</p>
-            <p class="ferengi">four</p>
-            <p class="ferengi">twenty two</p>
-        </div>        
+        <div class="headingWrapper clearFix">        
+            <h1 class="title">Donna Almendrala <span class="highlight">Design</span></h1>
 
-        <div class="barsTop">
-            <div id="barOne" class="tintedBar"></div>
-            <div id="barTwo" class="tintedBar"></div>           
-            <div id="barThree" class="tintedBar"></div>
-        </div>        
-
-        <div id="wheelOne" class="spin"></div>
-
-        <div class="sideWindow">
-            <div id="sideWindowOne" class="tintedWindowSide">
-                <p class="ferengi">sensors</p>
+            <div class="contactInfo">
+                <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail-2"><span class="hide">captain@donnaalmendrala.name</span></span></a>
+                <a href="javascript:void()"><span class="icon-phone"><span class="hide">510.621.3370</span></span></a>
+                <br />
+                <a href="http://twitter.com/donnamatata/"><span class="icon-twitter-bird"><span class="hide">@donnamatata</span></span></a>
+                <a href="http://github.com/donnasaur"><span class="icon-github"><span class="hide"> github.com/donnasaur</span></span></a>
             </div>
-            
-            <div id="sideWindowTwo" class="tintedWindowSide">
-                <p class="ferengi">life support</p>
-            </div>
+        </div>
+        <div class="contentWrapper">  
+
+            <div class="screenWindow">
            
-            <div id="sideWindowThree" class="tintedWindowSide">
-                <p class="ferengi">shields</p>
-            </div>       
-            <div class="clearBoth"></div>
+                <div id="screenOne" class="tintedWindow">
+                </div>
+            
+                <div id="screenTwo" class="tintedWindow">
+                </div>
+           
+                <div id="screenThree" class="tintedWindow clearFix">
+                </div>      
+
+                <div id="screenFour" class="tintedWindow">
+                </div>
+            
+                <div id="screenFive" class="tintedWindow">
+                </div>
+           
+                <div id="screenSix" class="tintedWindow clearFix">
+                </div>
+           
         </div>
 
-    <div class="barsBot">
-        <div id="barFour" class="tintedBar"></div>
-        <div id="barFive" class="tintedBar"></div>
-        <div id="barSix" class="tintedBar"></div>
-        <div id="barSeven" class="tintedBar"></div>
-    </div>
-
-    <div id="wheelTwo"></div>
-
-    <div class="contactInfo">
-        <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail-2"><span class="hide">captain@donnaalmendrala.name</span></span></a>
-        <a href="javascript:void()"><span class="icon-phone"><span class="hide">510.621.3370</span></span></a>
-        <br />
-        <a href="http://twitter.com/donnamatata/"><span class="icon-twitter-bird"><span class="hide">@donnamatata</span></span></a>
-        <a href="http://github.com/donnasaur"><span class="icon-github"><span class="hide"> github.com/donnasaur</span></span></a>
-    </div>
-    
+        </div>
     </div>
 
 <script src="http://code.jquery.com/jquery-1.8.1.min.js"></script>
