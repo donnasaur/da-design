@@ -44,21 +44,45 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             <div class="screenWindow">
            
                 <div id="s1" class="tintedWindow">
+                    <div class="description hidden">
+                        <div class="projectTitle">Piratehook.com</div>
+                        <div class="projectMethods">Vector Art &bull; Animation</div>
+                    </div>
                 </div>
             
                 <div id="s2" class="tintedWindow">
+                    <div class="description hidden">
+                        <div class="projectTitle">Piratehook.com</div>
+                        <div class="projectMethods">Vector Art &bull; Animation</div>
+                    </div>
                 </div>
            
                 <div id="s3" class="tintedWindow clearFix lastItem">
+                    <div class="description hidden">
+                        <div class="projectTitle">Piratehook.com</div>
+                        <div class="projectMethods">Vector Art &bull; Animation</div>
+                    </div>
                 </div>      
 
                 <div id="s4" class="tintedWindow">
+                    <div class="description hidden">
+                        <div class="projectTitle">Piratehook.com</div>
+                        <div class="projectMethods">Vector Art &bull; Animation</div>
+                    </div>
                 </div>
             
                 <div id="s5" class="tintedWindow">
+                    <div class="description hidden">
+                        <div class="projectTitle">Piratehook.com</div>
+                        <div class="projectMethods">Vector Art &bull; Animation</div>
+                    </div>
                 </div>
            
                 <div id="s6" class="tintedWindow clearFix lastItem">
+                    <div class="description hidden">
+                        <div class="projectTitle">Piratehook.com</div>
+                        <div class="projectMethods">Vector Art &bull; Animation</div>
+                    </div>
                 </div>
            
             </div>
