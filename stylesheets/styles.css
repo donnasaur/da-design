@@ -129,7 +129,7 @@ body.background {
 	
 	width: 100%;
     
-    background: url('../images/use_your_illusion.png'); 
+    background: url('../images/low_contrast_linen.png'); 
 
 }
 
@@ -152,20 +152,28 @@ div.wrapper {
 
 /* Heading */
 
-h1.title {
+div.headingWrapper {
+
+    margin-top: 24px;
+}
+
+.title {
+
+    display: block;
+    float: left
+}
+
+.title h1 {
 
     font-size: 2em;
-    float: left;
     font-weight: bold;
 }
 
-span.highlight {
+h2.highlight {
 
-    color: #00aeef;
-}
-
-.blueColor a{
-    color: #00aeef;
+    color: #0099ff;
+    font-size: 1.4em;
+    font-style: italic;
 }
 
 /* Contact Info */
@@ -180,7 +188,8 @@ div.contactInfo a {
 
     text-decoration: none;
     font-size: 8pt;
-    color: #00aeef;
+    color: #0099ff;
+    line-height: 20pt;
 }
 
 div.contactInfo a:hover {
@@ -193,33 +202,42 @@ div.contactInfo a:hover {
 div.contentWrapper {
 
     width: 100%;
-    margin: 24px auto 0 auto;
+    margin: 36px auto 0 auto;
 }
 
-div#screenOne, div#screenTwo, div#screenThree, div#screenFour, div#screenFive, div#screenSix {
+div.tintedWindow{
    
     display: block;
     position: relative;
     float: left;
 
-    width: 200px;
-    height: 100px;
+    width: 244px;
+    height: 140px;
 
-    padding: 20px;
-    margin: 0 18px 20px 0;
+    margin: 0 18px 36px 0;
 
-    background: black;
+    background: #0099ff;
     border: 4px solid white;
+    
     border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
 
+    box-shadow: rgba(0,0,0, 0.2) 5px 5px 3px;
+    -moz-box-shadow: rgba(0,0,0, 0.2) 5px 5px 3px;
+    -webkit-box-shadow: rgba(0,0,0, 0.2) 5px 5px 3px;
 }
 
-div.screenWindow div p.ferengi {
+div.screenWindow div.lastItem {
 
-    font-size: 10pt;
-    padding-top: 0;
+    margin-right: 0;
 }
 
+div.screenWindow {
+
+    width: 100%;
+    overflow: hidden;
+}
 
 /* Adding tint to windows on hover */
 
@@ -227,7 +245,8 @@ div.screenWindow div p.ferengi {
 
     position: relative;
     float: left;
-    cursor: pointer;
+    cursor: pointer; 
+
 }
 
 .tint:after {
@@ -235,12 +254,23 @@ div.screenWindow div p.ferengi {
     content: "";
     display: block;
     position: absolute;
+
+    height: 140px;
+    width: 244px;
+
     top: 4px;
-    right: 4px;
+    right: 0;
     bottom: 0;
-    left: 0;
-    background: rgba(0,0,0, 0.2);
+    left: 4px;
+   
+    
+    background: rgba(255,255,255, 0.2)  url('../images/shl.png');
+    opacity: 0.2;
+
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
     border-radius: 4px;
+
     -moz-transition: all .3s linear;
     -webkit-transition: all .3s linear;
     -ms-transition: all .3s linear;
@@ -253,3 +283,10 @@ div.screenWindow div p.ferengi {
     background: none;
 }
 
+/* Footer */
+
+div.footerWrapper span {
+
+    font-size: 8pt;
+    float: right;
+}

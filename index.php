@@ -27,8 +27,10 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
 <body class="background">
     <div class="wrapper">
         <div class="headingWrapper clearFix">        
-            <h1 class="title">Donna Almendrala <span class="highlight">Design</span></h1>
-
+            <div class="title"> 
+                <h1>Donna Almendrala</h1>
+                <h2 class="highlight">Graphic Art &bull; Web Design</h2>
+            </div>
             <div class="contactInfo">
                 <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail-2"><span class="hide">captain@donnaalmendrala.name</span></span></a>
                 <a href="javascript:void()"><span class="icon-phone"><span class="hide">510.621.3370</span></span></a>
@@ -41,26 +43,28 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
 
             <div class="screenWindow">
            
-                <div id="screenOne" class="tintedWindow">
+                <div id="s1" class="tintedWindow">
                 </div>
             
-                <div id="screenTwo" class="tintedWindow">
+                <div id="s2" class="tintedWindow">
                 </div>
            
-                <div id="screenThree" class="tintedWindow clearFix">
+                <div id="s3" class="tintedWindow clearFix lastItem">
                 </div>      
 
-                <div id="screenFour" class="tintedWindow">
+                <div id="s4" class="tintedWindow">
                 </div>
             
-                <div id="screenFive" class="tintedWindow">
+                <div id="s5" class="tintedWindow">
                 </div>
            
-                <div id="screenSix" class="tintedWindow clearFix">
+                <div id="s6" class="tintedWindow clearFix lastItem">
                 </div>
            
+            </div>
         </div>
-
+        <div class="footerWrapper">
+            <span>&copy; 2012 Donna Almendrala</span>
         </div>
     </div>
 
