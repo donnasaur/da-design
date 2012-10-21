@@ -27,11 +27,11 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
 <body class="background">
     <div class="wrapper">
         <div class="headingWrapper clearFix">        
-            <div class="title"> 
+            <div class="title crimson"> 
                 <h1>Donna Almendrala</h1>
-                <h2 class="highlight">Graphic Art &bull; Web Design</h2>
+                <h2 class="highlight crimson">Graphic Art &bull; Web Design</h2>
             </div>
-            <div class="contactInfo">
+            <div class="contactInfo hattori-hanzo">
                 <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail-2"><span class="hide">captain@donnaalmendrala.name</span></span></a>
                 <a href="javascript:void()"><span class="icon-phone"><span class="hide">510.621.3370</span></span></a>
                 <br />
@@ -87,8 +87,8 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
            
             </div>
         </div>
-        <div class="footerWrapper">
-            <span>&copy; 2012 Donna Almendrala</span>
+        <div class="footerWrapper hattori-hanzo">
+            <span>&copy; Donna Almendrala 2012</span>
         </div>
     </div>
 

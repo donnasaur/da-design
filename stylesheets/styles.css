@@ -49,17 +49,78 @@ table {
 
 /* Font Embed */
 
-.designer-block { font-family: 'designer_blockregular', monospace; }
+.crimson { font-family: "Crimson", "Palatino", "Hoefler Text", "Georgia", "Times New Roman", "Baskerville", serif; ;}
+
+.hattori-hanzo { font-family: "Hattori Hanzo", "Helvetica", "Arial", "Lucida Grande", "Gill Sans", "Verdana", sans-serif; font-size: 0.925em;}
 
 @font-face {
-        font-family: 'designer_blockregular';
-        src: url('../fonts/DesignerBlock/desib___-webfont.eot');
-        src: url('../fonts/DesignerBlock/desib___-webfont.eot?#iefix') format('embedded-opentype'),
-             url('../fonts/DesignerBlock/desib___-webfont.woff') format('woff'),
-             url('../fonts/DesignerBlock/desib___-webfont.ttf') format('truetype'),
-             url('../fonts/DesignerBlock/desib___-webfont.svg#designer_blockregular') format('svg');
-        font-weight: normal;
-        font-style: normal;
+    font-family: 'Crimson';
+    src: url('../fonts/Crimson-Bold-webfont.eot');
+    src: local('☺'), url('../fonts/Crimson-Bold-webfont.woff') format('woff'), url('../fonts/Crimson-Bold-webfont.ttf') format('truetype'), url('../fonts/Crimson-Bold-webfont.svg#webfontX4pGz9fc') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Crimson';
+    src: url('../fonts/Crimson-BoldItalic-webfont.eot');
+    src: local('☺'), url('../fonts/Crimson-BoldItalic-webfont.woff') format('woff'), url('../fonts/Crimson-BoldItalic-webfont.ttf') format('truetype'), url('../fonts/Crimson-BoldItalic-webfont.svg#webfontX4pGz9fc') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Crimson';
+    src: url('../fonts/Crimson-Italic-webfont.eot');
+    src: local('☺'), url('../fonts/Crimson-Italic-webfont.woff') format('woff'), url('../fonts/Crimson-Italic-webfont.ttf') format('truetype'), url('../fonts/Crimson-Italic-webfont.svg#webfontX4pGz9fc') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Crimson';
+    src: url('../fonts/Crimson-Roman-webfont.eot');
+    src: local('☺'), url('../fonts/Crimson-Roman-webfont.woff') format('woff'), url('../fonts/Crimson-Roman-webfont.ttf') format('truetype'), url('../fonts/Crimson-Roman-webfont.svg#webfontX4pGz9fc') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Crimson';
+    src: url('../fonts/Crimson-Semibold-webfont.eot');
+    src: local('☺'), url('../fonts/Crimson-Semibold-webfont.woff') format('woff'), url('../fonts/Crimson-Semibold-webfont.ttf') format('truetype'), url('../fonts/Crimson-Semibold-webfont.svg#webfontX4pGz9fc') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Crimson';
+    src: url('../fonts/Crimson-SemiboldItalic-webfont.eot');
+    src: local('☺'), url('../fonts/Crimson-SemiboldItalic-webfont.woff') format('woff'), url('../fonts/Crimson-SemiboldItalic-webfont.ttf') format('truetype'), url('../fonts/Crimson-SemiboldItalic-webfont.svg#webfontX4pGz9fc') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Hattori Hanzo';
+    src: url('../fonts/Hattori_Hanzo-webfont.eot');
+    src: local('☺'), url('../fonts/Hattori_Hanzo-webfont.woff') format('woff'), url('../fonts/Hattori_Hanzo-webfont.ttf') format('truetype'), url('../fonts/Hattori_Hanzo-webfont.svg#webfontX4pGz9fc') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Hattori Hanzo';
+    src: url('../fonts/Hattori_Hanzo_Italic-webfont.eot');
+    src: local('☺'), url('../fonts/Hattori_Hanzo_Italic-webfont.woff') format('woff'), url('../fonts/Hattori_Hanzo_Italic-webfont.ttf') format('truetype'), url('../fonts/Hattori_Hanzo_Italic-webfont.svg#webfontX4pGz9fc') format('svg');
+    font-weight: 200;
+    font-style: italic;
 }
 
 @charset "UTF-8";
@@ -118,7 +179,7 @@ table {
 
 body {
 
-    font-family: Lucida Grande, Arial, sans-serif;
+    font-family: "Hattori Hanzo", "Helvetica", "Arial", "Lucida Grande", "Gill Sans", "Verdana", sans-serif;
     color: #ffffff;
 }
 
@@ -160,7 +221,7 @@ div.headingWrapper {
 .title {
 
     display: block;
-    float: left
+    float: left;
 }
 
 .title h1 {
@@ -188,9 +249,9 @@ div.contactInfo {
 div.contactInfo a {
 
     text-decoration: none;
-    font-size: 8pt;
+    font-size: 10pt;
     color: #0099ff;
-    line-height: 12pt;
+    line-height: 14pt;
 }
 
 div.contactInfo a:hover {
@@ -247,7 +308,7 @@ div.description {
     text-align: center;
     background: rgba(0,0,0, 0.4);
 
-    margin-top: 125px;
+    margin-top: 129px;
     padding: 10px;
 
     -moz-border-radius: 0 0 4px 4px;
@@ -257,13 +318,15 @@ div.description {
 
 div.description div.projectTitle {
 
-    font-size: 1.6em;
+    font-family: "Crimson", "Palatino", "Hoefler Text", "Georgia", "Times New Roman", "Baskerville", serif;
+    font-size: 1.4em;
 }
 
 div.description div.projectMethods {
 
     font-size: 0.8em;
     font-style: italic;
+
     line-height: 1.4em;
 }
 
@@ -320,6 +383,6 @@ div.hidden {
 
 div.footerWrapper span {
 
-    font-size: 8pt;
+    font-size: 10pt;
     float: right;
 }
