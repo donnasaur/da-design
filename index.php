@@ -136,7 +136,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             <div class="aboutMe">
                 <article>
                     <h1 class="crimson">About me</h1>
-                    <p>I am a freelance graphic artist and web designer who hold her own when it comes to coding HTML, CSS and JavaScript. I received my MFA from The Center for Cartoon Studies where I studied illustration, graphic design, typography and print production in addition to cartooning. I've been an Online Intern at Viz Media, Production Artist and Managing Editor for Penny Lantern Productions and a freelancer for over two years. I have been making websites since I was thirteen and am passionate about the conjunction of art and technology.</p>
+                    <p>I am a freelance designer who hold her own when it comes to coding HTML, CSS and JavaScript. I received my MFA from The Center for Cartoon Studies where I studied illustration, graphic design, typography and print production in addition to cartooning. I've been an Online Intern at Viz Media, Production Artist and Managing Editor for Penny Lantern Productions and a freelancer for over two years. I have been making websites since I was thirteen and am passionate about the conjunction of art and technology.</p>
                     <p>While you're here, check out my <a href="http://donnaalmendrala.name">cartoon gallery</a> and <a href="http://chimps-in-space.com">webcomic</a> to see what else I am up to.</p> 
                     <p>If you're looking for <a href="http://macaqueattack.com">Macaque Attack</a>, contact us <a href="mailto:hello@macaqueattack.com">here</a>.</p>
                 </article>
