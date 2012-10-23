@@ -1,5 +1,5 @@
 $(function() {
-
+    
     $('.tintedWindow').each(function() {
         $(this).wrap('<div class="tint"></div>');
     });
@@ -11,16 +11,28 @@ $(function() {
         function() {
             $(this).find('div.description').addClass('hidden');
         }
-   );
+    );
   
-   $(".fancybox").fancybox({
-       prevEffect : 'none',
-       nextEffect : 'none',
-       helpers : {
+    $(".fancybox").fancybox({
+        prevEffect : 'none',
+        nextEffect : 'none',
+        helpers : {
             title: {
-                type: 'inside'
+            type: 'inside'
             }
         }
-   });
+    });
+
+    $(".various").fancybox({
+        maxWidth : 800,
+        maxHeight : 600,
+        fitToView : false,
+        width : '70%',
+        height : '70%',
+        autoSize : false,
+        closeClick : false,
+        openEffect : 'none',
+        closeEffect : 'none'
+    });
 
 });

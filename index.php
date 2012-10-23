@@ -54,50 +54,82 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             <div class="screenWindow">
            
                 <div id="s1" class="tintedWindow">
-                    <a class="fancybox" title="Piratehook.com 404 Page Not Found 2011" rel="piratehook" href="images/piratehook_2.png">Piratehook.com</a>
+                    <a class="fancybox" title="Animated web design for Piratehook.com (2011)" rel="piratehook" href="images/404_piratehook.png">Piratehook</a>
                     <div class="description hidden">
                         <div class="projectTitle">Piratehook.com</div>
                         <div class="projectMethods">Vector Illustration &bull; Animation</div>
                     </div>
+                    <div class="hidden">
+                        <a class="fancybox" title="Animated website design for Piratehook.com (2011)" rel="piratehook" href="images/underconstruction_piratehook.png">Piratehook</a>
+                        <a class="fancybox" title="Flash mockup: Animated web design for Piratehook.com (2011)" rel="piratehook" href="flash/404_piratehook.swf">Piratehook</a>
+                        <a class="fancybox" title="Flash mockup: Animated website design for Piratehook.com (2011)" rel="piratehook" href="flash/underconstruction_piratehook.swf">Piratehook</a>
+                    </div>
                 </div>
             
                 <div id="s2" class="tintedWindow">
-                    <a class="fancybox" title="Piratehook.com 404 Page Not Found 2011" rel="piratehook" href="images/piratehook_2.png">Piratehook.com</a>
+                    <a class="fancybox" title="Site redesign with Shopify custom template for Orandaworks.com (2012)" rel="orandaworks" href="images/oranda_1.png">OrandaWorks</a>
                     <div class="description hidden">
                         <div class="projectTitle">Orandaworks.com</div>
                         <div class="projectMethods">Shopify Customization &bull; HTML &bull; CSS &bull; JS</div>
                     </div>
+                    <div class="hidden">
+                        <a class="fancybox" title="Site redesign with Shopify custom template for Orandaworks.com (2012)" rel="orandaworks" href="images/oranda_2.png">OrandaWorks</a>
+                        <a class="fancybox" title="Site redesign with Shopify custom template for Orandaworks.com (2012)" rel="orandaworks" href="images/oranda_3.png">OrandaWorks</a>
+                        <a class="fancybox" title="Site redesign with Shopify custom template for Orandaworks.com (2012)" rel="orandaworks" href="images/oranda_4.png">OrandaWorks</a>
+                        <a class="fancybox" title="Site redesign with Shopify custom template for Orandaworks.com (2012)" rel="orandaworks" href="images/oranda_5.png">OrandaWorks</a>
+                    </div>
                 </div>
            
                 <div id="s3" class="tintedWindow clearFix lastItem">
-                    <a class="fancybox" title="Piratehook.com 404 Page Not Found 2011" rel="piratehook" href="images/piratehook_2.png">Piratehook.com</a>
+                    <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_1.png">Chimps in Space Webcomic</a>
                     <div class="description hidden">
                         <div class="projectTitle">Chimps-in-space.com</div>
-                        <div class="projectMethods">CSS &bull; Wordpress Customization &bull; Illustration</div>
+                        <div class="projectMethods">Wordpress Customization &bull; CSS &bull; Illustration</div>
+                    </div>
+                    <div class="hidden">
+                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_2.png">Chimps in Space Webcomic</a>                     
+                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_3.png">Chimps in Space Webcomic</a>                     
+                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_4.png">Chimps in Space Webcomic</a>                 
                     </div>
                 </div>      
 
                 <div id="s4" class="tintedWindow">
-                    <a class="fancybox" title="Piratehook.com 404 Page Not Found 2011" rel="piratehook" href="images/piratehook_2.png">Piratehook.com</a>                   
+                    <a class="fancybox" title="Design for promotional ad on Viz iPhone app (2011)" rel="viz" href="images/viz_1.png">Viz Media</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Viz.com</div>
                         <div class="projectMethods">Promotional Material &bull; Wallpaper Skin Design</div>
                     </div>
+                    <div class="hidden">
+                        <a class="fancybox" title="Design for promotional rotating ad on Viz.com (2011)" rel="viz" href="images/viz_2.png">Viz Media</a>
+                        <a class="fancybox" title="Background design of Viz series page (2011)" rel="viz" href="images/viz_3.png">Viz Media</a>                  
+                    </div>
                 </div>
             
                 <div id="s5" class="tintedWindow">
-                    <a class="fancybox" title="Piratehook.com 404 Page Not Found 2011" rel="piratehook" href="images/piratehook_2.png">Piratehook.com</a>                   
+                    <a class="fancybox" title="Design for box set collection (2012)" rel="cis-collection" href="images/cis_collection_1a.png">Chimps in Space Collection</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Chimps in Space Collection</div>
                         <div class="projectMethods">Production Design &bull; Illustration</div>
                     </div>
+                    <div class="hidden">
+                        <a class="fancybox" title="Design for box set collection (2012)" rel="cis-collection" href="images/cis_collection_1b.png">Chimps in Space Collection</a>
+                        <a class="fancybox" title="Design for box set collection (2012)" rel="cis-collection" href="images/cis_collection_1c.png">Chimps in Space Collection</a>                     
+                        <a class="fancybox" title="Wraparound cover design for vol. 1 (2012)" rel="cis-collection" href="images/cis_collection_2.png">Chimps in Space Collection</a>            
+                        <a class="fancybox" title="Wraparound cover design for vol. 2 (2012)" rel="cis-collection" href="images/cis_collection_3.png">Chimps in Space Collection</a>
+                        <a class="fancybox" title="Wraparound cover design for vol. 3 (2012)" rel="cis-collection" href="images/cis_collection_4.png">Chimps in Space Collection</a> 
+                    </div>
                 </div>
            
                 <div id="s6" class="tintedWindow clearFix lastItem">
-                   <a class="fancybox" title="Piratehook.com 404 Page Not Found 2011" rel="piratehook" href="images/piratehook_2.png">Piratehook.com</a>                   
-                   <div class="description hidden">
+                    <a class="fancybox" title="Promotional detail for The Center for Cartoon Studies (2012)" rel="misc" href="images/mbl_1.png">Misc. Banners & Logos</a>                   
+                    <div class="description hidden">
                         <div class="projectTitle">Misc. Banners & Logos</div>
                         <div class="projectMethods">Illustration &bull; Design &bull; Promotional Material</div>
+                    </div>
+                    <div class="hidden">
+                        <a class="fancybox" title="8-bit pixel animated banner for Serverdm.net (2012)" rel="misc" href="images/mbl_2.gif">Misc. Banners & Logos</a>
+                        <a class="fancybox" title="Banner detail for Wayfarersofoss.us (2012)" rel="misc" href="images/mbl_3.png">Misc. Banners & Logos</a>
+                        <a class="fancybox" title="Collaborative t-shirt design with Jason Lutes for LutesCon 2011 (2011)" rel="misc" href="images/mbl_4.png">Misc. Banners & Logos</a>
                     </div>
                 </div>
             

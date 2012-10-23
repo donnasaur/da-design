@@ -252,6 +252,11 @@ body.background {
 
 }
 
+.hidden {
+
+    display: none;
+}
+
 /* Clear Floats */
 
 .clearFix:after {
