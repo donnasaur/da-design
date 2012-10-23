@@ -136,7 +136,9 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             <div class="aboutMe">
                 <article>
                     <h1 class="crimson">About me</h1>
-                    <p>Aliquip lo-fi ea mustache quis. Portland ethical letterpress, flexitarian post-ironic labore leggings cosby sweater deserunt fixie dreamcatcher mollit yr. Seitan vice typewriter consequat. Mustache authentic consectetur, squid gastropub sapiente craft beer synth ex tofu gentrify dreamcatcher. Brooklyn chambray you probably haven't heard of them, ennui irure salvia nostrud keytar master cleanse direct trade exercitation fingerstache. Ullamco non four loko street art labore, minim mlkshk readymade flexitarian skateboard vice single-origin coffee fugiat voluptate cosby sweater. Sed occupy aesthetic umami, dolore leggings etsy master cleanse do pour-over occaecat forage voluptate lo-fi odio.</p>
+                    <p>I am a freelance graphic artist and web designer and can hold my own when it comes to coding HTML, CSS and JavaScript. I received my MFA from The Center for Cartoon Studies where I studied illustration, graphic design, typography and print production in addition to cartooning. I've been an Online Intern at Viz Media, Project Manager and Assistant Editor for Penny Lantern Productions and a freelancer for over two years. I have been making websites since I was thirteen and am passionate about the conjunction of art and technology.</p>
+                    <p>While you're here, check out my <a href="http://donnaalmendrala.name">cartoon gallery</a> and <a href="http://chimps-in-space.com">webcomic</a> to see what else I am up to.</p> 
+                    <p>If you're looking for <a href="http://macaqueattack.com">Macaque Attack</a>, contact us <a href="mailto:hello@macaqueattack.com">here</a>.</p>
                 </article>
             </div>
              

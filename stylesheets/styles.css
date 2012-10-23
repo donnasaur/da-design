@@ -257,6 +257,17 @@ body.background {
     display: none;
 }
 
+a, a:visited {
+
+    color: #0099ff;
+    text-decoration: none;
+}
+
+a: hover {
+
+    color: #ffffff;
+}
+
 /* Clear Floats */
 
 .clearFix:after {
@@ -512,6 +523,8 @@ div.aboutMe h1 {
 
 div.aboutMe p {
 
+    font-size: 95%;
+    line-height: 1.4;
     padding-bottom: 24px;
 }
 
@@ -522,7 +535,7 @@ div.footerWrapper {
     width: 800px;
     margin: 0 auto 0 auto;
     font-size: 10pt;
-    padding: 24px 0;
+    padding: 0 0 24px 0;
 }
 
 div.footerWrapper span {
