@@ -1,18 +1,34 @@
 $(function() {
+ 
+    /* Wrapping div on all screen windows for hover tint effect */
     
     $('.tintedWindow').each(function() {
         $(this).wrap('<div class="tint"></div>');
     });
-   
-    $('.tint').hover(
-        function() {
-            $(this).find('div.description').removeClass('hidden');
-        },
-        function() {
-            $(this).find('div.description').addClass('hidden');
-        }
-    );
-  
+    
+   /* For touch screens, keep the description always displayed */
+
+    if (Modernizr.touch) {
+
+        $('div.description').removeClass('hidden');
+    
+    } else {
+    
+    /* For all other screens, show description on hover */
+    
+        $('.tint').hover(
+            function() {
+                $(this).find('div.description').removeClass('hidden');
+            },
+            function() {
+                $(this).find('div.description').addClass('hidden');
+            }
+        );
+    
+    }
+
+    /* Adding Fancybox functionality */
+    
     $(".fancybox").fancybox({
         prevEffect : 'none',
         nextEffect : 'none',
