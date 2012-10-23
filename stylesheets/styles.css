@@ -174,7 +174,7 @@ table {
 .icon-mail-2:before { content: '\e801'; } /* '' */
 .icon-mail-1:before { content: '\e800'; } /* '' */
 .icon-mail-3:before { content: '\e802'; } /* '' */
-.icon-mail:before { content: '\2709'; } /* '✉' */
+.fontface .icon-mail:before { content: '\2709'; } /* '✉' */
 .icon-cancel-2:before { content: '\e80f'; } /* '' */
 .icon-cancel-3:before { content: '\e819'; } /* '' */
 .icon-cancel-1:before { content: '\e807'; } /* '' */
@@ -205,10 +205,10 @@ table {
 .icon-facebook-rect-1:before { content: '\e81c'; } /* '' */
 .icon-facebook-rect:before { content: '\f301'; } /* '' */
 .icon-twitter:before { content: '\f302'; } /* '' */
-.icon-twitter-bird:before { content: '\f303'; } /* '' */
+.fontface .icon-twitter-bird:before { content: '\f303'; } /* '' */
 .icon-twitter-bird-1:before { content: '\e81d'; } /* '' */
 .icon-github-text:before { content: '\f307'; } /* '' */
-.icon-github:before { content: '\f308'; } /* '' */
+.fontface .icon-github:before { content: '\f308'; } /* '' */
 .icon-googleplus-rect:before { content: '\f309'; } /* '' */
 .icon-googleplus-rect-1:before { content: '\e81e'; } /* '' */
 .icon-skype:before { content: '\f30b'; } /* '' */
@@ -222,11 +222,11 @@ table {
 .icon-headphones:before { content: '🎧'; } /* '\1f3a7' */
 .icon-user:before { content: '👤'; } /* '\1f464' */
 .icon-phone-1:before { content: '\e80e'; } /* '' */
-.icon-phone:before { content: '📞'; } /* '\1f4de' */
+.fontface .icon-phone:before { content: '📞'; } /* '\1f4de' */
 .icon-upload:before { content: '📤'; } /* '\1f4e4' */
 .icon-upload-1:before { content: '\e809'; } /* '' */
 .icon-download-1:before { content: '\e806'; } /* '' */
-.icon-download:before { content: '📥'; } /* '\1f4e5' */
+.fontface .icon-download:before { content: '📥'; } /* '\1f4e5' */
 .icon-mobile-1:before { content: '\e804'; } /* '' */
 .icon-mobile:before { content: '📱'; } /* '\1f4f1' */
 .icon-signal:before { content: '📶'; } /* '\1f4f6' */
