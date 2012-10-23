@@ -39,12 +39,12 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                 <h2 class="highlight crimson">Graphic Art &bull; Web Design</h2>
             </div>
             <div class="contactInfo hattori-hanzo">
-                <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail"><span>captain@donnaalmendrala.name</span></span></a>
-                <a href="javascript:void()"><span class="icon-phone"><span>510.621.3370</span></span></a>
+                <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail">captain@donnaalmendrala.name</span></a>
+                <a href="javascript:void()"><span class="icon-phone">510.621.3370</span></a>
                 <br />
-                <a href="http://twitter.com/donnamatata/"><span class="icon-twitter-bird"><span>@donnamatata</span></span></a>
-                <a href="http://github.com/donnasaur"><span class="icon-github"><span> github.com/donnasaur</span></span></a>
-                <a href="http://design.donnaalmendrala.name/resume.pdf"><span class="icon-download"><span>resume PDF</span></span></a>
+                <a href="http://twitter.com/donnamatata/"><span class="icon-twitter-bird">@donnamatata</span></a>
+                <a href="http://github.com/donnasaur"><span class="icon-github"> github.com/donnasaur</span></a>
+                <a href="http://design.donnaalmendrala.name/resume.pdf"><span class="icon-download">resume PDF</span></a>
             </div>
         </div>
         </header>
@@ -136,7 +136,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             <div class="aboutMe">
                 <article>
                     <h1 class="crimson">About me</h1>
-                    <p>I am a freelance designer who hold her own when it comes to coding HTML, CSS and JavaScript. I received my MFA from The Center for Cartoon Studies where I studied illustration, graphic design, typography and print production in addition to cartooning. I've been an Online Intern at Viz Media, Production Artist and Managing Editor for Penny Lantern Productions and a freelancer for over two years. I have been making websites since I was thirteen and am passionate about the conjunction of art and technology.</p>
+                    <p>I am a freelance designer who holds her own when it comes to coding HTML, CSS and JavaScript. I received my MFA from The Center for Cartoon Studies where I studied illustration, graphic design, typography and print production in addition to cartooning. I've been an Online Intern at Viz Media, Production Artist and Managing Editor for Penny Lantern Productions and a freelancer for over two years. I have been making websites since I was thirteen and am passionate about the conjunction of art and technology.</p>
                     <p>While you're here, check out my <a href="http://donnaalmendrala.name">cartoon gallery</a> and <a href="http://chimps-in-space.com">webcomic</a> to see what else I am up to.</p> 
                     <p>If you're looking for <a href="http://macaqueattack.com">Macaque Attack</a>, contact us <a href="mailto:hello@macaqueattack.com">here</a>.</p>
                 </article>
