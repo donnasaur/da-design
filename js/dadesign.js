@@ -11,7 +11,16 @@ $(function() {
         function() {
             $(this).find('div.description').addClass('hidden');
         }
-
    );
+  
+   $(".fancybox").fancybox({
+       prevEffect : 'none',
+       nextEffect : 'none',
+       helpers : {
+            title: {
+                type: 'inside'
+            }
+        }
+   });
 
 });

@@ -126,15 +126,16 @@ table {
 @charset "UTF-8";
 
 @font-face {
-      font-family: 'fontello';
-          src: url("../fonts/Fontello/fontello.eot");
-          src: url("../fonts/Fontello/fontello.eot?#iefix") format('embedded-opentype'), url("../fonts/Fontello/fontello.woff") format('woff'), url("../fonts/Fontello/fontello.ttf") format('truetype'), url("../fonts/Fontello/fontello.svg#fontello") format('svg');
-      font-weight: normal;
-      font-style: normal;
-}
 
+    font-family: 'fontello';
+    src: url("../fonts/fontello.eot");
+    src: url("../fonts/fontello.eot?#iefix") format('embedded-opentype'), url("../fonts/fontello.woff") format('woff'), url("../fonts/fontello.ttf") format('truetype'), url("../fonts/fontello.svg#fontello") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
+
     font-family: 'fontello';
     font-style: normal;
     font-weight: normal;
@@ -144,36 +145,93 @@ table {
     width: 1em;
     margin-right: 0.2em;
     text-align: center;
-    /*  opacity: 0.7; */
+//  opacity: 0.7;
     /* Uncomment for 3D effect */
-    /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+    text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3);
     /* fix buttons height */
     line-height: 1em;
     /* you can be more comfortable with increased icons size */
     /* font-size: 120%; */
 }
 
-.icon-home:before { content: '\2302'; } /* '⌂' */
-.icon-home-1:before { content: '\e800'; } /* '' */
-.icon-cog-alt:before { content: '\26ef'; } /* '⛯' */
-.icon-mail-1:before { content: '\e801'; } /* '' */
-.icon-mail-2:before { content: '\e802'; } /* '' */
+.icon-left-2:before { content: '\e813'; } /* '' */
+.icon-left-1:before { content: '\e80a'; } /* '' */
+.icon-left:before { content: '\2190'; } /* '←' */
+.icon-up:before { content: '\2191'; } /* '↑' */
+.icon-up-1:before { content: '\e80c'; } /* '' */
+.icon-up-2:before { content: '\e815'; } /* '' */
+.icon-right-1:before { content: '\e80b'; } /* '' */
+.icon-right:before { content: '\2192'; } /* '→' */
+.icon-right-2:before { content: '\e814'; } /* '' */
+.icon-down:before { content: '\2193'; } /* '↓' */
+.icon-down-1:before { content: '\e80d'; } /* '' */
+.icon-down-2:before { content: '\e812'; } /* '' */
+.icon-cloud-1:before { content: '\e81b'; } /* '' */
+.icon-cloud:before { content: '\2601'; } /* '☁' */
+.icon-music:before { content: '\266a'; } /* '♪' */
+.icon-music-2:before { content: '\e803'; } /* '' */
+.icon-music-1:before { content: '\266b'; } /* '♫' */
+.icon-mail-2:before { content: '\e801'; } /* '' */
+.icon-mail-1:before { content: '\e800'; } /* '' */
+.icon-mail-3:before { content: '\e802'; } /* '' */
 .icon-mail:before { content: '\2709'; } /* '✉' */
-.icon-attention-circle:before { content: '\2757'; } /* '❗' */
+.icon-cancel-2:before { content: '\e80f'; } /* '' */
+.icon-cancel-3:before { content: '\e819'; } /* '' */
+.icon-cancel-1:before { content: '\e807'; } /* '' */
+.icon-cancel:before { content: '\2715'; } /* '✕' */
+.icon-cancel-circle:before { content: '\2716'; } /* '✖' */
+.icon-cancel-circle-1:before { content: '\e808'; } /* '' */
+.icon-cancel-circle-2:before { content: '\e81a'; } /* '' */
+.icon-resize-vertical:before { content: '\2b0c'; } /* '⬌' */
+.icon-resize-horizontal:before { content: '\2b0d'; } /* '⬍' */
+.icon-comment:before { content: '\e718'; } /* '' */
 .icon-rss:before { content: '\e73a'; } /* '' */
+.icon-rss-1:before { content: '\e818'; } /* '' */
+.icon-rss-alt:before { content: '\e73b'; } /* '' */
+.icon-resize-full:before { content: '\e744'; } /* '' */
+.icon-resize-small:before { content: '\e746'; } /* '' */
+.icon-down-open:before { content: '\e75c'; } /* '' */
+.icon-left-open:before { content: '\e75d'; } /* '' */
+.icon-left-open-2:before { content: '\e816'; } /* '' */
+.icon-left-open-1:before { content: '\e810'; } /* '' */
+.icon-right-open-2:before { content: '\e817'; } /* '' */
+.icon-right-open:before { content: '\e75e'; } /* '' */
+.icon-right-open-1:before { content: '\e811'; } /* '' */
+.icon-up-open:before { content: '\e75f'; } /* '' */
 .icon-off:before { content: '\e78e'; } /* '' */
+.icon-terminal:before { content: '\e7ac'; } /* '' */
 .icon-mobile-alt:before { content: '\e7b0'; } /* '' */
+.icon-facebook:before { content: '\f300'; } /* '' */
+.icon-facebook-rect-1:before { content: '\e81c'; } /* '' */
 .icon-facebook-rect:before { content: '\f301'; } /* '' */
+.icon-twitter:before { content: '\f302'; } /* '' */
 .icon-twitter-bird:before { content: '\f303'; } /* '' */
+.icon-twitter-bird-1:before { content: '\e81d'; } /* '' */
+.icon-github-text:before { content: '\f307'; } /* '' */
 .icon-github:before { content: '\f308'; } /* '' */
-.icon-glass:before { content: '🍸'; } /* '\1f378' */
-.icon-phone-1:before { content: '\e803'; } /* '' */
+.icon-googleplus-rect:before { content: '\f309'; } /* '' */
+.icon-googleplus-rect-1:before { content: '\e81e'; } /* '' */
+.icon-skype:before { content: '\f30b'; } /* '' */
+.icon-skype-1:before { content: '\e820'; } /* '' */
+.icon-tumblr-rect-1:before { content: '\e81f'; } /* '' */
+.icon-tumblr-rect:before { content: '\f310'; } /* '' */
+.icon-tumblr:before { content: '\f311'; } /* '' */
+.icon-linkedin:before { content: '\f31a'; } /* '' */
+.icon-linkedin-rect:before { content: '\f31b'; } /* '' */
+.icon-headphones-1:before { content: '\e805'; } /* '' */
+.icon-headphones:before { content: '🎧'; } /* '\1f3a7' */
+.icon-user:before { content: '👤'; } /* '\1f464' */
+.icon-phone-1:before { content: '\e80e'; } /* '' */
 .icon-phone:before { content: '📞'; } /* '\1f4de' */
+.icon-upload:before { content: '📤'; } /* '\1f4e4' */
+.icon-upload-1:before { content: '\e809'; } /* '' */
+.icon-download-1:before { content: '\e806'; } /* '' */
+.icon-download:before { content: '📥'; } /* '\1f4e5' */
+.icon-mobile-1:before { content: '\e804'; } /* '' */
 .icon-mobile:before { content: '📱'; } /* '\1f4f1' */
 .icon-signal:before { content: '📶'; } /* '\1f4f6' */
-.icon-light-down:before { content: '🔅'; } /* '\1f505' */
-.icon-light-up:before { content: '🔆'; } /* '\1f506' */
-.icon-search:before { content: '🔍'; } /* '\1f50d' */
+.icon-camera:before { content: '📷'; } /* '\1f4f7' */
+.icon-search:before { content: '🔎'; } /* '\1f50e' */
 
 /* My CSS */
 
@@ -207,7 +265,6 @@ body.background {
 
 div.wrapper {
 
-    width: 800px;
     margin: 0 auto;
 }
 
@@ -215,8 +272,17 @@ div.wrapper {
 
 div.headingWrapper {
 
-    margin-top: 24px;
+    width: 800px;
+    margin: 0 auto;
+    padding: 24px 0;
 }
+
+/*
+div.headingBg, div.footerBg {
+
+    background: rgba(0,0,0, 0.7)
+}
+*/
 
 .title {
 
@@ -249,9 +315,9 @@ div.contactInfo {
 div.contactInfo a {
 
     text-decoration: none;
-    font-size: 10pt;
+    font-size: 0.9em;
     color: #0099ff;
-    line-height: 14pt;
+    line-height: 1.6em;
 }
 
 div.contactInfo a:hover {
@@ -263,8 +329,8 @@ div.contactInfo a:hover {
 
 div.contentWrapper {
 
-    width: 100%;
-    margin: 36px auto 0 auto;
+    width: 800px;
+    margin: 24px auto 0 auto;
 }
 
 div.tintedWindow{
@@ -278,7 +344,7 @@ div.tintedWindow{
 
     margin: 0 18px 36px 0;
 
-    background: #0099ff url('../images/piratehook_2.png') -254px -210px no-repeat;
+    background: black;
     border: 4px solid white;
     
     border-radius: 8px;
@@ -301,6 +367,51 @@ div.screenWindow {
     overflow: hidden;
 }
 
+div.tintedWindow a {
+    
+    display: block;
+    position: relative;
+    z-index: 2;
+   
+    width: 100%;
+    height: 100%;
+
+    font-size: 0;
+    color: transparent;
+}
+
+div#s1 {
+
+    background: url('../images/sprites.png') 0 0 no-repeat;
+}
+
+div#s2 {
+
+    background: url('../images/sprites.png') -252px 0 no-repeat;
+}
+
+div#s3 {
+
+    background: url('../images/sprites.png') -504px 0 no-repeat;
+}
+
+div#s4 {
+
+    background: url('../images/sprites.png') 0 -197px no-repeat;
+}
+
+
+div#s5 {
+
+    background: url('../images/sprites.png') -253px -197px no-repeat;
+}
+
+div#s6 {
+
+    background: url('../images/sprites.png') -506px -197px no-repeat;
+}
+
+
 div.description {
 
     display: block;
@@ -308,7 +419,7 @@ div.description {
     text-align: center;
     background: rgba(0,0,0, 0.4);
 
-    margin-top: 129px;
+    margin-top: -73px;
     padding: 10px;
 
     -moz-border-radius: 0 0 4px 4px;
@@ -316,18 +427,23 @@ div.description {
     border-radius: 0 0 4px 4px;
 }
 
+div#s5 div.description {
+
+    margin-top: -102px;
+}
+
 div.description div.projectTitle {
 
     font-family: "Crimson", "Palatino", "Hoefler Text", "Georgia", "Times New Roman", "Baskerville", serif;
-    font-size: 1.4em;
+    font-size: 18pt;
+    line-height: 22pt;
 }
 
 div.description div.projectMethods {
 
-    font-size: 0.8em;
+    font-size: 9pt;
     font-style: italic;
-
-    line-height: 1.4em;
+    line-height: 18pt;
 }
 
 div.hidden {
@@ -379,10 +495,34 @@ div.hidden {
     background: none;
 }
 
+/* About Section */
+
+div.aboutMe h1 {
+
+    font-size: 1.4em;
+    font-style: italic;
+    padding-bottom: 12px;
+    text-align: center;
+}
+
+div.aboutMe p {
+
+    padding-bottom: 24px;
+}
+
 /* Footer */
+
+div.footerWrapper { 
+
+    width: 800px;
+    margin: 0 auto 0 auto;
+    font-size: 10pt;
+    padding: 24px 0;
+}
 
 div.footerWrapper span {
 
-    font-size: 10pt;
-    float: right;
+    display: block;
+    text-align: right; 
+    margin: 0;
 }
