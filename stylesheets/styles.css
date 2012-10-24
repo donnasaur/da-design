@@ -207,6 +207,7 @@ a:hover {
 
 div.wrapper {
 
+    width: 800px;
     margin: 0 auto;
 }
 
@@ -214,7 +215,6 @@ div.wrapper {
 
 div.headingWrapper {
 
-    width: 800px;
     margin: 0 auto;
     padding: 24px 0;
 }
@@ -276,7 +276,6 @@ div.contactInfo a:hover {
 
 div.contentWrapper {
 
-    width: 800px;
     margin: 24px auto 0 auto;
 }
 
@@ -469,7 +468,6 @@ div.aboutMe p {
 
 div.footerWrapper { 
 
-    width: 800px;
     margin: 0 auto 0 auto;
     font-size: 0.7em;
     padding: 0 0 24px 0;
