@@ -97,7 +97,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     <a class="fancybox" title="Design for promotional ad on Viz iPhone app (2011)" rel="viz" href="images/viz_1.png">Viz Media</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Viz.com</div>
-                        <div class="projectMethods">Promotional Material &bull; Wallpaper Skin Design</div>
+                        <div class="projectMethods">Promotional Material &bull; Background Skins</div>
                     </div>
                     <div class="hidden">
                         <a class="fancybox" title="Design for promotional rotating ad on Viz.com (2011)" rel="viz" href="images/viz_2.png">Viz Media</a>
