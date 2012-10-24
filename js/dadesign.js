@@ -27,7 +27,7 @@ $(function() {
     
     }
 
-    /* Resize for smaller browser windows: 320px,480px, 600px */
+    /* Resize for smaller browser windows: 320px, 480px, 600px, 768px */
 
     if (Modernizr.mq('only screen and (max-width: 480px)')) {
 
@@ -36,7 +36,7 @@ $(function() {
         $('div.tintedWindow').addClass('lastItem clearFix');
         $('div.aboutMe').css('float','left');
         console.log("make me one row!");
-    } else if (Modernizr.mq('only screen and (max-width: 600px)')) {
+    } else if (Modernizr.mq('only screen and (max-width: 768px)')) {
 
         $('div.wrapper').css({'width':'530px','margin':'0 auto'});
         $('div.contactInfo').css({'float':'left', 'text-align':'left'});
