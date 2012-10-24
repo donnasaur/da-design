@@ -34,11 +34,11 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
     <div class="wrapper">
         <header>
         <div class="headingWrapper clearFix">        
-            <div class="title crimson"> 
+            <div class="title"> 
                 <h1>Donna Almendrala</h1>
-                <h2 class="highlight crimson">Graphic Art &bull; Web Design</h2>
+                <h2 class="highlight">Graphic Art &bull; Web Design</h2>
             </div>
-            <div class="contactInfo hattori-hanzo">
+            <div class="contactInfo">
                 <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail">captain@donnaalmendrala.name</span></a>
                 <a href="javascript:void()"><span class="icon-phone">510.621.3370</span></a>
                 <br />
@@ -135,7 +135,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             
             <div class="aboutMe">
                 <article>
-                    <h1 class="crimson">About me</h1>
+                    <h1>About me</h1>
                     <p>I am a freelance designer who holds her own when it comes to coding HTML, CSS and JavaScript. I received my MFA from The Center for Cartoon Studies where I studied illustration, graphic design, typography and print production in addition to cartooning. I've been an Online Intern at Viz Media, Production Artist and Managing Editor for Penny Lantern Productions and a freelancer for over two years. I have been making websites since I was thirteen and am passionate about the conjunction of art and technology.</p>
                     <p>While you're here, check out my <a href="http://donnaalmendrala.name">cartoon gallery</a> and <a href="http://chimps-in-space.com">webcomic</a> to see what else I am up to.</p> 
                     <p>If you're looking for <a href="http://macaqueattack.com">Macaque Attack</a>, contact us <a href="mailto:hello@macaqueattack.com">here</a>.</p>
@@ -146,7 +146,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
         </div>
         </section>
         <footer> 
-            <div class="footerWrapper hattori-hanzo">
+            <div class="footerWrapper">
                 <span>All Content &copy; Donna Almendrala 2012</span>
             </div>
         </footer>
