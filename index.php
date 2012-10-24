@@ -123,7 +123,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                 <div id="s6" class="tintedWindow clearFix lastItem">
                     <a class="fancybox" title="Promotional detail for The Center for Cartoon Studies (2012)" rel="misc" href="images/mbl_1.png">Misc. Banners & Logos</a>                   
                     <div class="description hidden">
-                        <div class="projectTitle">Misc. Banners & Logos</div>
+                        <div class="projectTitle">Et cetera</div>
                         <div class="projectMethods">Illustration &bull; Design &bull; Promotional Material</div>
                     </div>
                     <div class="hidden">
