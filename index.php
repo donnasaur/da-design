@@ -12,7 +12,8 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
 -->
 	<link rel="icon" type="image/ico" href="favicon.ico">
 	<title>Design | Donna Almendrala</title>
-	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" /> 
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta name="description" content="Donna Almendrala is a freelance graphic and web designer. Take a look at her portfolio and contact information." />
     
     <!-- Add my CSS -->
@@ -36,7 +37,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
         <div class="headingWrapper clearFix">        
             <div class="title"> 
                 <h1>Donna Almendrala</h1>
-                <h2 class="highlight">Graphic Art &bull; Web Design</h2>
+                <h2>Graphic Art & Web Design</h2>
             </div>
             <div class="contactInfo">
                 <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail">captain@donnaalmendrala.name</span></a>
@@ -48,9 +49,9 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             </div>
         </div>
         </header>
-        <section>
+        
         <div class="contentWrapper">  
-
+            <section>
             <div class="screenWindow">
            
                 <div id="s1" class="tintedWindow">
@@ -70,7 +71,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     <a class="fancybox" title="Site redesign with Shopify custom template for Orandaworks.com (2012)" rel="orandaworks" href="images/oranda_1.png">OrandaWorks</a>
                     <div class="description hidden">
                         <div class="projectTitle">Orandaworks.com</div>
-                        <div class="projectMethods">Shopify Customization &bull; HTML &bull; CSS &bull; JS</div>
+                        <div class="projectMethods">Custom Shopify &bull; HTML &bull; CSS &bull; JS</div>
                     </div>
                     <div class="hidden">
                         <a class="fancybox" title="Site redesign with Shopify custom template for Orandaworks.com (2012)" rel="orandaworks" href="images/oranda_2.png">OrandaWorks</a>
@@ -84,7 +85,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_1.png">Chimps in Space Webcomic</a>
                     <div class="description hidden">
                         <div class="projectTitle">Chimps-in-space.com</div>
-                        <div class="projectMethods">Wordpress Customization &bull; CSS &bull; Illustration</div>
+                        <div class="projectMethods">Custom Wordpress &bull; CSS &bull; Illustration</div>
                     </div>
                     <div class="hidden">
                         <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_2.png">Chimps in Space Webcomic</a>                     
@@ -97,7 +98,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     <a class="fancybox" title="Design for promotional ad on Viz iPhone app (2011)" rel="viz" href="images/viz_1.png">Viz Media</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Viz.com</div>
-                        <div class="projectMethods">Promotional Material &bull; Background Skins</div>
+                        <div class="projectMethods">Promo Material &bull; Background Skins</div>
                     </div>
                     <div class="hidden">
                         <a class="fancybox" title="Design for promotional rotating ad on Viz.com (2011)" rel="viz" href="images/viz_2.png">Viz Media</a>
@@ -124,7 +125,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     <a class="fancybox" title="Promotional detail for The Center for Cartoon Studies (2012)" rel="misc" href="images/mbl_1.png">Misc. Banners & Logos</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Et cetera</div>
-                        <div class="projectMethods">Illustration &bull; Design &bull; Promotional Material</div>
+                        <div class="projectMethods">Illustration &bull; Design &bull; Promo Material</div>
                     </div>
                     <div class="hidden">
                         <a class="fancybox" title="8-bit pixel animated banner for Serverdm.net (2012)" rel="misc" href="images/mbl_2.gif">Misc. Banners & Logos</a>
@@ -132,7 +133,9 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                         <a class="fancybox" title="Collaborative t-shirt design with Jason Lutes for LutesCon 2011 (2011)" rel="misc" href="images/mbl_4.png">Misc. Banners & Logos</a>
                     </div>
                 </div>
-            
+        </div>
+        </section> 
+        <section>
             <div class="aboutMe">
                 <article>
                     <h1>About me</h1>
@@ -143,7 +146,6 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             </div>
              
             </div>
-        </div>
         </section>
         <footer> 
             <div class="footerWrapper">
