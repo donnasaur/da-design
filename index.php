@@ -89,6 +89,18 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                 </div>
            
                 <div id="s3" class="tintedWindow lastItem">
+                    <a class="fancybox" title="Design for promotional ad on Viz iPhone app (2011)" rel="viz" href="images/viz_1.png">Viz Media</a>                   
+                    <div class="description hidden">
+                        <div class="projectTitle">Viz.com</div>
+                        <div class="projectMethods">Promo Material &bull; Background Skins</div>
+                    </div>
+                    <div class="hidden">
+                        <a class="fancybox" title="Design for promotional rotating ad on Viz.com (2011)" rel="viz" href="images/viz_2.png">Viz Media</a>
+                        <a class="fancybox" title="Background design of Viz series page (2011)" rel="viz" href="images/viz_3.png">Viz Media</a> 
+                    </div>
+                </div>      
+
+                <div id="s4" class="tintedWindow">
                     <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis" href="images/chimpsinspace_1.png">Chimps in Space Webcomic</a>
                     <div class="description hidden">
                         <div class="projectTitle">Chimps in Space</div>
@@ -103,19 +115,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                         <a class="fancybox" title="Design for box set collection (2012)" rel="cis" href="images/cis_collection_1c.png">Chimps in Space Collection</a>                     
                         <a class="fancybox" title="Wraparound cover design for vol. 1 (2012)" rel="cis" href="images/cis_collection_2.png">Chimps in Space Collection</a>            
                         <a class="fancybox" title="Wraparound cover design for vol. 2 (2012)" rel="cis" href="images/cis_collection_3.png">Chimps in Space Collection</a>
-                        <a class="fancybox" title="Wraparound cover design for vol. 3 (2012)" rel="cis" href="images/cis_collection_4.png">Chimps in Space Collection</a>
-                    </div>
-                </div>      
-
-                <div id="s4" class="tintedWindow">
-                    <a class="fancybox" title="Design for promotional ad on Viz iPhone app (2011)" rel="viz" href="images/viz_1.png">Viz Media</a>                   
-                    <div class="description hidden">
-                        <div class="projectTitle">Viz.com</div>
-                        <div class="projectMethods">Promo Material &bull; Background Skins</div>
-                    </div>
-                    <div class="hidden">
-                        <a class="fancybox" title="Design for promotional rotating ad on Viz.com (2011)" rel="viz" href="images/viz_2.png">Viz Media</a>
-                        <a class="fancybox" title="Background design of Viz series page (2011)" rel="viz" href="images/viz_3.png">Viz Media</a>                  
+                        <a class="fancybox" title="Wraparound cover design for vol. 3 (2012)" rel="cis" href="images/cis_collection_4.png">Chimps in Space Collection</a>                                    
                     </div>
                 </div>
             
