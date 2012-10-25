@@ -40,7 +40,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
         <div class="headingWrapper clearFix">        
             <div class="title"> 
                 <h1>Donna Almendrala</h1>
-                <h2>Graphic Art & Web Design</h2>
+                <h2>Graphic Art &middot; Web Design</h2>
             </div>
             <div class="contactInfo">
                 <ul>
@@ -89,15 +89,21 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                 </div>
            
                 <div id="s3" class="tintedWindow lastItem">
-                    <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_1.png">Chimps in Space Webcomic</a>
+                    <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis" href="images/chimpsinspace_1.png">Chimps in Space Webcomic</a>
                     <div class="description hidden">
-                        <div class="projectTitle">Chimps-in-space.com</div>
-                        <div class="projectMethods">Custom Wordpress &bull; CSS &bull; Illustration</div>
+                        <div class="projectTitle">Chimps in Space</div>
+                        <div class="projectMethods">Custom Wordpress &bull; CSS &bull; Illustration &bull; Production Design</div>
                     </div>
                     <div class="hidden">
-                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_2.png">Chimps in Space Webcomic</a>                     
-                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_3.png">Chimps in Space Webcomic</a>                     
-                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_4.png">Chimps in Space Webcomic</a>                 
+                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis" href="images/chimpsinspace_2.png">Chimps in Space Webcomic</a>                     
+                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis" href="images/chimpsinspace_3.png">Chimps in Space Webcomic</a>                     
+                        <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis" href="images/chimpsinspace_4.png">Chimps in Space Webcomic</a>                 
+                        <a class="fancybox" title="Design for box set collection (2012)" rel="cis" href="images/cis_collection_1a.png">Chimps in Space Collection</a>
+                        <a class="fancybox" title="Design for box set collection (2012)" rel="cis" href="images/cis_collection_1b.png">Chimps in Space Collection</a>
+                        <a class="fancybox" title="Design for box set collection (2012)" rel="cis" href="images/cis_collection_1c.png">Chimps in Space Collection</a>                     
+                        <a class="fancybox" title="Wraparound cover design for vol. 1 (2012)" rel="cis" href="images/cis_collection_2.png">Chimps in Space Collection</a>            
+                        <a class="fancybox" title="Wraparound cover design for vol. 2 (2012)" rel="cis" href="images/cis_collection_3.png">Chimps in Space Collection</a>
+                        <a class="fancybox" title="Wraparound cover design for vol. 3 (2012)" rel="cis" href="images/cis_collection_4.png">Chimps in Space Collection</a>
                     </div>
                 </div>      
 
@@ -114,17 +120,16 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                 </div>
             
                 <div id="s5" class="tintedWindow">
-                    <a class="fancybox" title="Design for box set collection (2012)" rel="cis-collection" href="images/cis_collection_1a.png">Chimps in Space Collection</a>                   
+                    <a class="fancybox" title="Design for Donnaalmendrala.name (2011)" rel="daname" href="images/daname_1.png">Donnaalmendrala.name</a>                   
                     <div class="description hidden">
-                        <div class="projectTitle">Chimps in Space Collection</div>
-                        <div class="projectMethods">Production Design &bull; Illustration</div>
+                        <div class="projectTitle">Donnaalmendrala.name</div>
+                        <div class="projectMethods">Design &bull; Illustration &bull; HTML &bull; CSS &bull; JS </div>
                     </div>
                     <div class="hidden">
-                        <a class="fancybox" title="Design for box set collection (2012)" rel="cis-collection" href="images/cis_collection_1b.png">Chimps in Space Collection</a>
-                        <a class="fancybox" title="Design for box set collection (2012)" rel="cis-collection" href="images/cis_collection_1c.png">Chimps in Space Collection</a>                     
-                        <a class="fancybox" title="Wraparound cover design for vol. 1 (2012)" rel="cis-collection" href="images/cis_collection_2.png">Chimps in Space Collection</a>            
-                        <a class="fancybox" title="Wraparound cover design for vol. 2 (2012)" rel="cis-collection" href="images/cis_collection_3.png">Chimps in Space Collection</a>
-                        <a class="fancybox" title="Wraparound cover design for vol. 3 (2012)" rel="cis-collection" href="images/cis_collection_4.png">Chimps in Space Collection</a> 
+                     <a class="fancybox" title="Design for Donnaalmendrala.name (2011)" rel="daname" href="images/daname_2.png">Donnaalmendrala.name</a>
+                     <a class="fancybox" title="Design for Donnaalmendrala.name (2011)" rel="daname" href="images/daname_3.png">Donnaalmendrala.name</a>
+                     <a class="fancybox" title="Design for Donnaalmendrala.name (2011)" rel="daname" href="images/daname_4.png">Donnaalmendrala.name</a>
+                     <a class="fancybox" title="Design for Donnaalmendrala.name (2011)" rel="daname" href="images/daname_5.png">Donnaalmendrala.name</a>
                     </div>
                 </div>
            
