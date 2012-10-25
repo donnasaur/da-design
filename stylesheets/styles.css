@@ -739,6 +739,8 @@ ul, li {
 
 .headingWrapper {
 
+    width: 744px;
+
     margin: 24px auto 0 0;
     padding: 24px;
 
@@ -1056,6 +1058,11 @@ div.aboutMe p {
         width: 530px;
     }
 
+    .headingWrapper {
+
+        width: 474px;
+    }
+
     .title h1 {
 
         font-size: 3em;
@@ -1097,14 +1104,19 @@ div.aboutMe p {
         width: 400px;
     }
 
+    .headingWrapper {
+
+        width: 348px;
+    }
+
     .title h1 {
 
-        font-size: 2.4em;
+        font-size: 2.2em;
     }
 
     .title h2 {
 
-        font-size: 1.6em;
+        font-size: 1.5em;
     }
 
     div.contactInfo ul {
@@ -1138,19 +1150,29 @@ div.aboutMe p {
         width: 270px;
     }
 
+    .headingWrapper {
+
+        width: 204px;
+    }
+    
     .title h1 {
 
-        font-size: 1.6em;
+        font-size: 1.3em;
     }
 
     .title h2 {
 
-        font-size: 1em;
+        font-size: 0.9em;
     }
 
     div.contactInfo ul {
 
         margin: 0;
+    }
+
+    div.contactInfo a {
+
+        font-size: 0.6em;
     }
 
     div.aboutMe {
