@@ -1095,6 +1095,57 @@ div.aboutMe p {
 
 }
 
+/* Kindle Fire browser */
+
+@media (min-width: 600px) and (max-width: 600px) {
+
+    .wrapper {
+
+        width: 530px;
+    }
+
+    .headingWrapper {
+
+        width: 474px;
+    }
+
+    .title h1 {
+
+        font-size: 3em;
+    }
+
+    .title h2 {
+    
+        font-size: 1.8em;
+    }
+
+    .contactInfo ul {
+
+        margin-right: 60px;
+    }
+
+    div#s3.lastItem {
+
+        margin-right: 18px;
+    }
+
+    div#s2, div#s4 {
+
+        margin-right: 0;
+    }
+
+    div#s5 div.description div.projectTitle {
+
+        font-size: 14pt;
+    }
+
+    div.aboutMe {
+
+        width: 474px;
+    }
+
+}
+
 /* 480px and smaller */
 
 @media (max-width: 480px) {
