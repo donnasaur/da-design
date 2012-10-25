@@ -397,6 +397,7 @@ table {
     Work: http://lemonwi.se co-founder
 
     */
+
 @font-face {
   font-family: "FontAwesome";
   src: url('../fonts/fontawesome-webfont.eot');
@@ -694,7 +695,6 @@ body.background {
 	width: 100%;
     
     background: url('../images/low_contrast_linen.png'); 
-
 }
 
 .hidden {
@@ -787,7 +787,10 @@ h1, h2, h3, h4, h5, h6 {
 .contactInfo a {
 
     width: auto;
+    
+    font-family: "Helvetica", "Arial", "Lucida Grande", "Gill Sans", "Verdana", sans-serif; 
     text-decoration: none;
+    
     font-size: 0.8em;
     color: #0099ff;
     line-height: 1.8em;
@@ -1131,7 +1134,7 @@ div.aboutMe p {
 
     .title h2 {
 
-        font-size: 1.2em;
+        font-size: 1em;
     }
 
     div.contactInfo ul {
