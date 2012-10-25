@@ -16,15 +16,18 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta name="description" content="Donna Almendrala is a freelance graphic and web designer. Take a look at her portfolio and contact information." />
     
-    <!-- Add my CSS -->
-    <link rel="stylesheet" href="stylesheets/styles.css" type="text/css" media="all"/>
-
+    <!-- Add Fontawesome CSS for ie7-->
+    <link rel="stylesheet" href="stylesheets/font-awesome-ie7.css" type="text/css" media="all" />   
+    
     <!-- Add fancyBox CSS -->
 	<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.2" type="text/css" media="screen" />
     
     <!-- Add fancyBox helpers CSS -->
     <link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
 	<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+
+    <!-- Add my CSS -->
+    <link rel="stylesheet" href="stylesheets/styles.css" type="text/css" media="all"/>
 
     <!-- Modernizr -->
     <script type="text/javascript" src="js/modernizr.js"></script>
@@ -41,14 +44,14 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             </div>
             <div class="contactInfo">
                 <ul>
-                    <li><a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail">captain@donnaalmendrala.name</span></a></li>
-                    <li><a href="javascript:void()"><span class="icon-phone">510.621.3370</span></a></li>
-                    <li><a href="http://design.donnaalmendrala.name/resume.pdf"><span class="icon-download">resume PDF</span></a></li>
+                    <li><a href="mailto:captain@donnaalmendrala.name" target="_blank" class="icon-envelope-alt">captain@donnaalmendrala.name</a></li>
+                    <li><a href="javascript:void()" class="icon-phone">510.621.3370</a></li>
+                    <li><a href="http://design.donnaalmendrala.name/resume.pdf" class="icon-download-alt">resume PDF</a></li>
                 </ul>
                 <ul>
-                    <li><a href="http://twitter.com/donnamatata/"><span class="icon-twitter-bird">@donnamatata</span></a></li>
-                    <li><a href="http://github.com/donnasaur"><span class="icon-github"> github.com/donnasaur</span></a></li>
-                    <li><a href="http://www.linkedin.com/in/donnaalmendrala"><span class="icon-linkedin-rect"> /donnaalmendrala</a></li>
+                    <li><a href="http://twitter.com/donnamatata/" class="icon-twitter">@donnamatata</a></li>
+                    <li><a href="http://github.com/donnasaur" class="icon-github"> github.com/donnasaur</a></li>
+                    <li><a href="http://www.linkedin.com/in/donnaalmendrala" class="icon-linkedin"> /donnaalmendrala</a></li>
                 </ul>
             </div>
         </div>
