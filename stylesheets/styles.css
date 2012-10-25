@@ -1119,9 +1119,9 @@ div.aboutMe p {
         font-size: 1.8em;
     }
 
-    .contactInfo ul {
+    .contactInfo ul:first-child {
 
-        margin-right: 60px;
+        margin-right: 30px;
     }
 
     div#s3.lastItem {
