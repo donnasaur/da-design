@@ -923,7 +923,7 @@ div.description {
     border-radius: 0 0 4px 4px;
 }
 
-div#s5 div.description {
+div#s3 div.description {
 
     margin-top: -102px;
     height: 82px;
@@ -1157,12 +1157,12 @@ div.aboutMe p {
     
     .title h1 {
 
-        font-size: 1.2em;
+        font-size: 1.8em;
     }
 
     .title h2 {
 
-        font-size: 0.8em;
+        font-size: 1.4em;
     }
 
     div.contactInfo ul {
