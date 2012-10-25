@@ -40,12 +40,16 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                 <h2>Graphic Art & Web Design</h2>
             </div>
             <div class="contactInfo">
-                <a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail">captain@donnaalmendrala.name</span></a>
-                <a href="javascript:void()"><span class="icon-phone">510.621.3370</span></a>
-                <br />
-                <a href="http://twitter.com/donnamatata/"><span class="icon-twitter-bird">@donnamatata</span></a>
-                <a href="http://github.com/donnasaur"><span class="icon-github"> github.com/donnasaur</span></a>
-                <a href="http://design.donnaalmendrala.name/resume.pdf"><span class="icon-download">resume PDF</span></a>
+                <ul>
+                    <li><a href="mailto:captain@donnaalmendrala.name" target="_blank"><span class="icon-mail">captain@donnaalmendrala.name</span></a></li>
+                    <li><a href="javascript:void()"><span class="icon-phone">510.621.3370</span></a></li>
+                    <li><a href="http://design.donnaalmendrala.name/resume.pdf"><span class="icon-download">resume PDF</span></a></li>
+                </ul>
+                <ul>
+                    <li><a href="http://twitter.com/donnamatata/"><span class="icon-twitter-bird">@donnamatata</span></a></li>
+                    <li><a href="http://github.com/donnasaur"><span class="icon-github"> github.com/donnasaur</span></a></li>
+                    <li><a href="http://www.linkedin.com/in/donnaalmendrala"><span class="icon-linkedin-rect"> /donnaalmendrala</a></li>
+                </ul>
             </div>
         </div>
         </header>
@@ -81,7 +85,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     </div>
                 </div>
            
-                <div id="s3" class="tintedWindow clearFix lastItem">
+                <div id="s3" class="tintedWindow lastItem">
                     <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis-comic" href="images/chimpsinspace_1.png">Chimps in Space Webcomic</a>
                     <div class="description hidden">
                         <div class="projectTitle">Chimps-in-space.com</div>
@@ -121,7 +125,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     </div>
                 </div>
            
-                <div id="s6" class="tintedWindow clearFix lastItem">
+                <div id="s6" class="tintedWindow lastItem">
                     <a class="fancybox" title="Promotional detail for The Center for Cartoon Studies (2012)" rel="misc" href="images/mbl_1.png">Misc. Banners & Logos</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Et cetera</div>
@@ -140,7 +144,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                 <article>
                     <h1>About me</h1>
                     <p>I am a freelance designer who holds her own when it comes to coding HTML, CSS and JavaScript. I received my MFA from The Center for Cartoon Studies where I studied illustration, graphic design, typography and print production in addition to cartooning. I've been an Online Intern at Viz Media, Production Artist and Managing Editor for Penny Lantern Productions and a freelancer for over two years. I have been making websites since I was thirteen and am passionate about the conjunction of art and technology.</p>
-                    <p>While you're here, check out my <a href="http://donnaalmendrala.name">cartoon gallery</a> and <a href="http://chimps-in-space.com">webcomic</a> to see what else I am up to.</p> 
+                    <p>While you're here, check out my <a href="http://donnaalmendrala.name/blog">blog</a> and <a href="http://chimps-in-space.com">webcomic</a> to see what else I am up to.</p> 
                     <p>If you're looking for <a href="http://macaqueattack.com">Macaque Attack</a>, contact us <a href="mailto:hello@macaqueattack.com">here</a>.</p>
                 </article>
             </div>

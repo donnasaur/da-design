@@ -27,30 +27,6 @@ $(function() {
     
     }
 
-    /* Resize for smaller browser windows: 320px, 480px, 600px, 768px */
-
-    if (Modernizr.mq('only screen and (max-width: 480px)')) {
-
-        $('div.wrapper').css({'width':'313px','margin':'0 auto'});
-        $('div.contactInfo').css({'float': 'left', 'text-align':'left'});
-        $('div.tintedWindow').addClass('lastItem clearFix');
-        $('div.aboutMe').css('float','left');
-        console.log("make me one row!");
-    } else if (Modernizr.mq('only screen and (max-width: 768px)')) {
-
-        $('div.wrapper').css({'width':'530px','margin':'0 auto'});
-        $('div.contactInfo').css({'float':'left', 'text-align':'left'});
-        $('div#s3').removeClass('lastItem clearFix');
-        $('div#s2').addClass('lastItem clearFix');
-        $('div#s4').addClass('lastItem clearFix');
-        $('div#s6').addClass('lastItem clearFix'); 
-        $('div.aboutMe').css('float','left');
-        console.log("make me two rows!");
-    } else {
-
-        console.log("you're fine!");
-    }
-
     /* Adding Fancybox functionality */
     
     $(".fancybox").fancybox({
