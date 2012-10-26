@@ -61,7 +61,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
             <section>
             <div class="screenWindow">
            
-                <div id="s1" class="tintedWindow">
+                <div id="s1" class="tintedWindow icon-zoom-in">
                     <a class="fancybox" title="Animated web design for Piratehook.com (2011)" rel="piratehook" href="images/404_piratehook.png">Piratehook</a>
                     <div class="description hidden">
                         <div class="projectTitle">Piratehook.com</div>
@@ -74,7 +74,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     </div>
                 </div>
             
-                <div id="s2" class="tintedWindow">
+                <div id="s2" class="tintedWindow icon-zoom-in">
                     <a class="fancybox" title="Site redesign with Shopify custom template for Orandaworks.com (2012)" rel="orandaworks" href="images/oranda_1.png">OrandaWorks</a>
                     <div class="description hidden">
                         <div class="projectTitle">Orandaworks.com</div>
@@ -88,7 +88,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     </div>
                 </div>
            
-                <div id="s3" class="tintedWindow lastItem">
+                <div id="s3" class="tintedWindow lastItem icon-zoom-in">
                     <a class="fancybox" title="Design for promotional ad on Viz iPhone app (2011)" rel="viz" href="images/viz_1.png">Viz Media</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Viz.com</div>
@@ -100,7 +100,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     </div>
                 </div>      
 
-                <div id="s4" class="tintedWindow">
+                <div id="s4" class="tintedWindow icon-zoom-in">
                     <a class="fancybox" title="Designed Wordpress custom template for webcomic Chimps-in-space.com (2012)" rel="cis" href="images/chimpsinspace_1.png">Chimps in Space Webcomic</a>
                     <div class="description hidden">
                         <div class="projectTitle">Chimps in Space</div>
@@ -119,7 +119,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     </div>
                 </div>
             
-                <div id="s5" class="tintedWindow">
+                <div id="s5" class="tintedWindow icon-zoom-in">
                     <a class="fancybox" title="Design for Donnaalmendrala.name (2011)" rel="daname" href="images/daname_1.png">Donnaalmendrala.name</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Donnaalmendrala.name</div>
@@ -133,7 +133,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
                     </div>
                 </div>
            
-                <div id="s6" class="tintedWindow lastItem">
+                <div id="s6" class="tintedWindow lastItem icon-zoom-in">
                     <a class="fancybox" title="Promotional detail for The Center for Cartoon Studies (2012)" rel="misc" href="images/mbl_1.png">Misc. Banners & Logos</a>                   
                     <div class="description hidden">
                         <div class="projectTitle">Et cetera</div>
