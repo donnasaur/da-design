@@ -161,7 +161,7 @@ Copyright 2012 Donna Almendrala (see AUTHORS)
         </section>
         <footer> 
             <div class="footerWrapper">
-                <span>All Content &copy; Donna Almendrala 2012</span>
+                <span>All Content &copy; Donna Almendrala 2012-2013</span>
             </div>
         </footer>
     </div>
